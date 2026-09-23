@@ -1,4 +1,4 @@
-export function computeTotal(a: number, b: number): number {
+export function computeTotalV2(a: number, b: number): number {
   return a + b;
 }
 
