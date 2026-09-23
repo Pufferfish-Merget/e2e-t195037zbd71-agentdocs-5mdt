@@ -1,0 +1,5 @@
+# merget-harness fixture: what this project's recipe generates.
+node_modules/
+
+dist/
+*.tsbuildinfo
